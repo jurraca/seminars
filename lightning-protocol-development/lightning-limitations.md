@@ -15,7 +15,7 @@
 | [Lightning Attack Vectors](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-25-fabrice-drouin-attack-vectors-of-lightning-network/) | 30 |
 | [Pinning Attacks](https://github.com/t-bast/lightning-docs/blob/master/pinning-attacks.md) | 40 |
 | [Solutions to inbound capacity problem in Lightning Network](https://medium.com/lightningto-me/practical-solutions-to-inbound-capacity-problem-in-lightning-network-60224aa13393) | 10 |
-| [Channel probing in the face of parallel channels](https://s-tikhomirov.github.io/lightning-probing/) | 25 |
+| [Channel probing in the face of parallel channels](https://s-tikhomirov.github.io/lightning-probing-2/) | 25 |
 
 ## Discussion Questions
 
